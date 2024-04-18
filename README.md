@@ -14,6 +14,27 @@
  
 4. Python, C++, Go, Java, R[2]을 지원하며, SWIG를 통해 다양한 언어 지원 가능<br>
 
+#**Keras**란? <br>
+1. 파이썬으로 작성된 오픈 소스 신경망 라이브러리이다.<br> MXNet, Deeplearning4j, 텐서플로, Microsoft Cognitive Toolkit 또는 Theano 위에서 수행할 수 있다.<br> 딥 신경망과의 빠른 실험을 가능케 하도록 설계되었으며 최소한의 모듈 방식의 확장 가능성에 초점을 둔다.<br>  ONEIROS(Open-ended Neuro-Electronic Intelligent Robot Operating System) 프로젝트의 연구적 노력의 일환으로 개발되었으며 주 개발자이자 유지보수자는 구글의 엔지니어 프랑소아 숄레(Francois Chollet)이다.
+
+
+
+
+***
+
+
+
+
+***
+
+
+
+
+
+
+
+
+
 
 ![캡처](https://github.com/IAMYUTAEYANG/study_TensorFlow/assets/165633233/eef2cff8-614a-460a-a2db-6deea1da141b)
 
