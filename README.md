@@ -25,7 +25,7 @@
 - ONEIROS(Open-ended Neuro-Electronic Intelligent Robot Operating System) 프로젝트의 연구적 노력의 일환으로 개발되었으며 주 개발자이자 유지보수자는 구글의 엔지니어 프랑소아 숄레(Francois Chollet)이다.
 
 
-#**프로그램** <br>
+#**프로그램** 
 - 개발환경<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  <br>
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) <br>
