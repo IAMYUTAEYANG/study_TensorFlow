@@ -23,14 +23,15 @@ ONEIROS(Open-ended Neuro-Electronic Intelligent Robot Operating System) 프로�
 
 #**프로그램**
 kerasVer2.py <br>
+
 ***
-import sys
-import cv2
-from PyQt5.QtWidgets import QApplication, QMainWindow, QVBoxLayout, QWidget, QLabel, QPushButton
-from PyQt5.QtCore import QTimer, Qt
-from PyQt5.QtGui import QImage, QPixmap
-from keras.models import load_model
-import numpy as np
+import sys <br>
+import cv2 <br>
+from PyQt5.QtWidgets import QApplication, QMainWindow, QVBoxLayout, QWidget, QLabel, QPushButton <br>
+from PyQt5.QtCore import QTimer, Qt <br>
+from PyQt5.QtGui import QImage, QPixmap <br>
+from keras.models import load_model <br>
+import numpy as np <br>
 ***
 
 
