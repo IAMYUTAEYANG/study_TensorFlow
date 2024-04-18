@@ -25,8 +25,9 @@ ONEIROS(Open-ended Neuro-Electronic Intelligent Robot Operating System) 프로�
 
 #**프로그램** <br>
 - 개발환경<br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)=3.9 
-![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)=3.9
+<br> 
+![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) <br> 
 가상환경: Anaconda
 ---------------------------------------------------------------------------------------------------------
 사용한 프로그램<br>
