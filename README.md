@@ -41,14 +41,8 @@ from PyQt5.QtGui import QImage, QPixmap <br>
 from keras.models import load_model <br>
 import numpy as np <br>
 ***
-
-
-
-
-
-
-
-
+pip install -r requiments.txt
+***
 
 ##**결과**# <br>
 ![캡처](https://github.com/IAMYUTAEYANG/study_TensorFlow/assets/165633233/eef2cff8-614a-460a-a2db-6deea1da141b)
